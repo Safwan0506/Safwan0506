@@ -84,44 +84,66 @@ class SafwanDjazouli:
 <tr>
 <td width="50%">
 
-### Scensora
+### [Scensora](https://github.com/Safwan0506/Scensora-site)
 Plateforme beaute sensorielle avec design immersif et animations fluides.
 
-**Stack :** Next.js, React, Tailwind CSS, Framer Motion
+**Stack :** React, Supabase, Tailwind CSS, Vite
 
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-7c6aff?style=flat-square&logo=vercel&logoColor=white)](https://scensora-site.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7c6aff?style=flat-square&logo=vercel&logoColor=white)](https://scensora-site.vercel.app) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/Scensora-site)
 
 </td>
 <td width="50%">
 
-### Trading Platform
-Plateforme d'analyse de marches financiers avec algorithmes predictifs IA.
+### [GlowBeauty](https://github.com/Safwan0506/GlowBeauty)
+E-commerce beaute luxe avec dashboard admin et paiement Mobile Money.
 
-**Stack :** Python, TensorFlow, React, WebSocket
+**Stack :** React, TypeScript, Supabase, Tailwind CSS
 
-![En cours](https://img.shields.io/badge/En_cours-ffd93d?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/GlowBeauty)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Portfolio Neural Hub
-Portfolio interactif avec reseau neural 3D, cube rotatif et chatbot IA.
+### [Portfolio Neural Hub](https://github.com/Safwan0506/safwan-portfolio)
+Portfolio interactif avec reseau neural 3D et chatbot IA Orion.
 
 **Stack :** Next.js, Three.js, Framer Motion, TypeScript
 
-![En cours](https://img.shields.io/badge/En_cours-ffd93d?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/safwan-portfolio)
 
 </td>
 <td width="50%">
 
-### Djazz Junior BTP
-Site vitrine pour entreprise BTP basee a Bangui, Centrafrique.
+### [Portfolio Cube 3D](https://github.com/Safwan0506/safwan-cube-portfolio)
+Portfolio avec cube 3D rotatif, navigation par faces et toggle FR/EN.
 
-**Stack :** HTML, CSS, JavaScript, PHP
+**Stack :** Next.js, Three.js, Framer Motion, TypeScript
 
-![A venir](https://img.shields.io/badge/A_venir-7c6aff?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/safwan-cube-portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [API Location Voitures](https://github.com/Safwan0506/api-location-voitures)
+API REST de location de vehicules avec auth JWT et gestion des roles.
+
+**Stack :** Node.js, Express, MySQL, JWT
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/api-location-voitures)
+
+</td>
+<td width="50%">
+
+### [Trading MCP Server](https://github.com/Safwan0506/trading-mcp-server)
+Serveur MCP pour analyse forex via Claude : indicateurs techniques et fondamentaux.
+
+**Stack :** TypeScript, MCP SDK, Technical Indicators
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/trading-mcp-server)
 
 </td>
 </tr>
