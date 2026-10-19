@@ -128,6 +128,28 @@ Portfolio avec cube 3D rotatif, navigation par faces et toggle FR/EN.
 <tr>
 <td width="50%">
 
+### [Kassa](https://github.com/Safwan0506/kassa)
+Gestion de stock et facturation multi-boutiques pour PME d'Afrique centrale.
+
+**Stack :** Java 21, Spring Boot 3, PostgreSQL, React, Docker
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/kassa) ![En cours](https://img.shields.io/badge/En_cours-ffd93d?style=flat-square)
+
+</td>
+<td width="50%">
+
+### [Treso](https://github.com/Safwan0506/treso)
+Suivi des impayes et prevision de tresorerie avec IA pour PME.
+
+**Stack :** Python, FastAPI, scikit-learn, SHAP, React, Docker
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Safwan0506/treso) ![En cours](https://img.shields.io/badge/En_cours-ffd93d?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [API Location Voitures](https://github.com/Safwan0506/api-location-voitures)
 API REST de location de vehicules avec auth JWT et gestion des roles.
 
